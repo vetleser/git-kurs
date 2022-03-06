@@ -1,7 +1,4 @@
 # 🖋️ Git-kurs
-Git-kurs for Timini med innføring i grunnleggende bruk av git, samt installering og oppsett.
-
----
 
 Vil du ha en forsmak på livet som IT-konsulent? Få tilgang på ubegrenset kok i alle fag? Se bra ut for en potensiell arbeidsgiver? Være forberedt den dagen du selger sjela til Revolve? 
 
