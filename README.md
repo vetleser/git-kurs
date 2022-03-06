@@ -1,4 +1,4 @@
-# Git-kurs
+# 🖋️ Git-kurs
 Git-kurs for Timini med innføring i grunnleggende bruk av git, samt installering og oppsett.
 
 ---
@@ -7,7 +7,7 @@ Vil du ha en forsmak på livet som IT-konsulent? Få tilgang på ubegrenset kok 
 
 Infodep inviterer til kurs i versjonskontrollsystemet Git!
 
-### Hva er Git?
+### ❓ Hva er Git?
 
 Git er et raskt og kraftfullt verktøy for å spore endringer på filer i en mappe/filsystem (repository). 
 
@@ -20,7 +20,7 @@ He described the tool as "the stupid content tracker" and the name as (depending
 - "global information tracker": you're in a good mood, and it actually works for you. Angels sing, and a light suddenly fills the room.  
 - "goddamn idiotic truckload of sh*t": when it breaks
 
-### Hvorfor Git?
+### 🤔 Hvorfor Git?
 
 Git er et viktig verktøy for alle som skriver kode. Infodep bruker Git aktivt i utviklingen av timini.no. Vi byttet nylig fra Bitbucket og bruker nå GitHub som vertstjeneste for programmeringsprosessen vår.   
 Sjekk ut [Infodep på GitHub](https://github.com/infodep).
@@ -31,16 +31,16 @@ For en potensiell arbeidsgiver vil det være positivt å kunne vise til koderela
 
 Bli med da vel!
 
-### Program
+### ⏱️ Program
 
-11:15 Velkommen. Kaffe og boller. (Lunsj?)
-11:20 Innføring i Git v/Viljar.
-11:45 Demonstrasjon/praktisk gjennomgang.
-12:00 Presentasjon av oppgaver
-12:15 Git-konkurranse, kombinert med hjelp til installasjon osv.
-12:45 Kåring av vinner. Oppsummering.
+12:15 Velkommen.
+12:20 Innføring i Git v/Viljar.
+12:45 Demonstrasjon/praktisk gjennomgang.
+13:00 Presentasjon av oppgaver
+13:15 Git-konkurranse, kombinert med hjelp til installasjon osv.
+13:45 Kåring av vinner. Oppsummering.
 
-### Før kurset
+### 🧑‍💻 Før kurset
 
 Selv om det er mulig å dukke opp på kurset uten forberedelser anbefaler vi å gjøre følgende før kurset:
 - Installere VS Code
